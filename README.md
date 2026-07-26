@@ -30,7 +30,7 @@ This project analyzes the Global Superstore 2016 dataset using Microsoft Excel. 
 
 # Repository Sturcture
 - Data:https://github.com/vedantsahare9-arch/Global_Superstore_Sales_Analysis/blob/main/Sample_Global_Superstore_200Rows.xlsx
-- Dashboard:
+- Dashboard:https://github.com/vedantsahare9-arch/Global_Superstore_Sales_Analysis/blob/main/Global_Superstore_2025_Dataset_Dashboard.xlsx
 - 
 
 # Feedback and Collaboration
