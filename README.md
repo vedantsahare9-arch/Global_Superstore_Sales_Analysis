@@ -28,6 +28,9 @@ This project analyzes the Global Superstore 2016 dataset using Microsoft Excel. 
 - Techniques: Data Cleaning, Pivot Tables, Charts, Slicers, Conditional Formatting
 - Outcome: Business insights for better decision-making
 
+# Note
+- GitHub cannot preview large Excel files. Please download the dataset or view the sample CSV file for a quick preview.
+
 # Repository Sturcture
 - Data:<a href "https://github.com/vedantsahare9-arch/Global_Superstore_Sales_Analysis/blob/main/Sample_Global_Superstore_200Rows.xlsx"<a/>
 - Dashboard:https://github.com/vedantsahare9-arch/Global_Superstore_Sales_Analysis/blob/main/Global_Superstore_2025_Dataset_Dashboard.xlsx
