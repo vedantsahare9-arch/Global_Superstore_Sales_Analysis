@@ -28,19 +28,24 @@ This project analyzes the Global Superstore 2016 dataset using Microsoft Excel. 
 - Techniques: Data Cleaning, Pivot Tables, Charts, Slicers, Conditional Formatting
 - Outcome: Business insights for better decision-making
 
-# Repository Structure
+## 📁 Repository Structure
+
+```text
 Global-Superstore-Excel-Analysis/
 │
 ├── Dataset/
 │   └── Global_Superstore_2016.xlsx
 │
 ├── Dashboard/
-│   └── Excel_Dashboard.xlsx
+│   └── Global_Superstore_Dashboard.xlsx
 │
 ├── Images/
 │   └── Dashboard_Screenshot.png
 │
-└── README.md
+├── README.md
+│
+└── LICENSE
+```
 
 # Feedback and Collaboration
 Thank you for visiting this project!
