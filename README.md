@@ -29,7 +29,7 @@ This project analyzes the Global Superstore 2016 dataset using Microsoft Excel. 
 - Outcome: Business insights for better decision-making
 
 # Repository Sturcture
-- Data:
+- Data:https://github.com/vedantsahare9-arch/Global_Superstore_Sales_Analysis/blob/main/Global_Superset_2025_Dataset.xlsx
 - Dashboard:
 - 
 
