@@ -20,10 +20,36 @@ This project analyzes the Global Superstore 2016 dataset using Microsoft Excel. 
 - Uses Pivot Tables, Charts, and Slicers effectively.
 - Presents business insights in a clear and interactive dashboard.
 - Easy for recruiters and beginners to understand.
-
+    
 # Project Highlights
 - Dataset: Global Superstore 2016
 - Tool Used: Microsoft Excel
--Dashboard Type: Interactive Sales Dashboard
--Techniques: Data Cleaning, Pivot Tables, Charts, Slicers, Conditional Formatting
--Outcome: Business insights for better decision-making
+- Dashboard Type: Interactive Sales Dashboard
+- Techniques: Data Cleaning, Pivot Tables, Charts, Slicers, Conditional Formatting
+- Outcome: Business insights for better decision-making
+
+# Repository Structure
+Global-Superstore-Excel-Analysis/
+│
+├── Dataset/
+│   └── Global_Superstore_2016.xlsx
+│
+├── Dashboard/
+│   └── Excel_Dashboard.xlsx
+│
+├── Images/
+│   └── Dashboard_Screenshot.png
+│
+└── README.md
+
+# Feedback and Collaboration
+Thank you for visiting this project!
+
+If you have any suggestions or feedback, feel free to:
+
+- ⭐ Star this repository
+- 🍴 Fork the project
+- 🐞 Report an issue
+- 🤝 Share your ideas for improvement
+
+I appreciate your feedback and welcome collaboration on future data analysis projects.
