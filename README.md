@@ -1,5 +1,5 @@
 # Project Overview
-This project analyzes the Global Superstore 2016 dataset using Microsoft Excel. The objective is to clean the data, perform sales analysis, and create an interactive dashboard to help understand business performance and support better decision-making.
+This project analyzes the Global Superstore 2025 dataset using Microsoft Excel. The objective is to clean the data, perform sales analysis, and create an interactive dashboard to help understand business performance and support better decision-making.
 
 # Key Insights
 - Technology category generated the highest sales.
